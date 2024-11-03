@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Maxim-Potter, and I'm 30
-- 👀 I’m interested in Mendix, Java, Python and all hard codeother stuff
+- 👀 I’m interested in Mendix, Java, Python and all other hard code stuff
 - 🌱 I’m currently learning SQL, Java and Python
 - 💞️ I’m looking to collaborate on <no idea>
 - 📫 How to reach me <secret>
